@@ -1,0 +1,69 @@
+body{background-color:#8ED081;}
+
+#top-section {
+    height: 20%;
+    width: 100%;
+    text-align:center;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    margin: auto;
+    font-size: xx-large;
+    padding-left: 10px;
+}
+
+#my-name {
+    margin: auto;
+
+}
+
+#my-email {
+    margin: auto;
+
+}
+
+#container-for-work {
+    width: 100%;
+    height: 80%;
+}
+
+#labs-column {
+    width: 50%;
+    float: left;
+}
+#assignments-column {
+    width: 50%;
+    float: right;
+}
+div.labs-block {
+    padding: 5px;
+}
+div.assignments-block {
+    padding: 5px;
+}
+h2.lab-name {
+    padding-left: 8px;
+}
+p.lab-description {
+    padding-top:1px;
+    padding-left:8px;
+}
+.assignment-name {
+    padding-left:8px;
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+a {
+    color:red;
+}
+p.assignment-description {
+    padding-top:1px;
+    padding-left:8px;
+}
